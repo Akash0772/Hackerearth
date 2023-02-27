@@ -1,1 +1,1 @@
-# Hackerearth
+# HackerEarthSolutions
