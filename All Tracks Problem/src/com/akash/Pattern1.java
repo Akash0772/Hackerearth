@@ -14,7 +14,7 @@ Generate the pattern:
 * * * * * * * * * * * * * * * * * * * * * * * * * 
 
  */
-public class Pattern {
+public class Pattern1 {
 	public static void main(String args[] ) throws Exception {
 	       int n = 9;
 	        int m = 25;
